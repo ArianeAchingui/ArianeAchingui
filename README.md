@@ -83,5 +83,4 @@ Major: Information Security Management
 
 Actively seeking **Data Analyst opportunities** where I can apply my SQL, Python, and Power BI skills to solve business problems and drive data-driven decision making.
 
-Open to: Full-time, contract, remote, or hybrid roles
 
